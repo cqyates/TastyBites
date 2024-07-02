@@ -1,2 +1,2 @@
 # TastyBites
-A react native application
+A Next.js project.
